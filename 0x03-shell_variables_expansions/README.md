@@ -1,1 +1,1 @@
-create a script that displace global variables
+Write a script that prints the result of the addition of 128 with the
