@@ -1,1 +1,1 @@
-script that decodes Acrostics
+script that passes web servers logs
