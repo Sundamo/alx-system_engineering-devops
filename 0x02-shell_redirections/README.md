@@ -1,1 +1,1 @@
-command that finds all empty files and directories 
+gif extention in current directory
