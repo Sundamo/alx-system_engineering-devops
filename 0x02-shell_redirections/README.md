@@ -1,1 +1,1 @@
-gif extention in current directory
+script that decodes Acrostics
